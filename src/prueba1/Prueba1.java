@@ -16,7 +16,7 @@ public class Prueba1 {
 		suma = num1 + num2;
 		System.out.println("La suma es " + suma);
 		
-		//cambio 1
+		//cambio 2
 
 	}
 
